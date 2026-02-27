@@ -11,9 +11,7 @@ Models Built
 
 Tech Stack
 Python, TensorFlow/Keras, scikit-learn, Pandas, NumPy, Matplotlib, SeabornReport
-Full technical report available in the repository: RSRP_Regression_Model_Report.pdf
 
 ## 📊 Report
-Full technical report available in the repository: RSRP_Regression_Model_Report.pdf
-[Click here to view the full report](RSRP_Regression_Model_Report.pdf)
+Full technical report available: [Click here to view the full report](RSRP_Regression_Model_Report.pdf)
 
